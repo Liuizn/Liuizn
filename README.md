@@ -12,6 +12,9 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="bootstrap"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
+  <img align="center" alt="couchdb" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" />
+  <img align="center" alt="mssql" width="40" height="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/><a href="https://www.mysql.com/">
+  <img align="center" alt="mysql" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/> </a> </p>
 </div>
 <div>
   <h1>Social Media</h1>
