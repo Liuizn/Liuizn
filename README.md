@@ -1,7 +1,6 @@
 <h1>Hello My name is Luiz Gabriel!</h1>
-Atualmente estou aprendendo <b>PHP</b>|<br>SQL</b>
-- <br><br>
-
+Atualmente estou aprendendo <b>PHP</b> | <b>SQL</b>
+ <br><br>
 
 <div>
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=liuizn&show_icons=true&theme=tokyonight">
