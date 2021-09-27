@@ -1,5 +1,5 @@
 <h1>Hello My name is Luiz Gabriel!</h1>
-Atualmente estou aprendendo <b>PHP</b> | <b>SQL</b>
+I’m currently learning <b>PHP</b> && <b>SQL</b>
  <br><br>
 
 <div>
