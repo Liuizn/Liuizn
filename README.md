@@ -18,7 +18,7 @@ I’m currently learning <b>PHP</b> && <b>SQL</b>
   <img align="center" alt="mysql" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/> </a> </p>
 </div>
 <div>
-  <h1>E-mail e LinkedIn</h1>
+  <h1>E-mail - LinkedIn</h1>
   <a href = "mailto: luizgabrielsnogueira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luiz-gabriel-dos-santos-nogueira-1281981a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     
