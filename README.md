@@ -1,6 +1,6 @@
 <h2>Hello !!!</h1>
 
-I’m currently learning <b>JavaScript</b> && <b>PHP</b>
+I’m currently learning <b>JavaScript</b> AND <b>PHP</b>
 
 
 <div>
