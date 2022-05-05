@@ -1,6 +1,5 @@
-<h2>Hello !!!</h1>
+<h2>Hello !!!</h2>
 
-I’m currently learning <b>JavaScript</b> AND <b>PHP</b>
 
 
 <div>
