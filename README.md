@@ -1,12 +1,5 @@
 <h2>Hello !!!</h2>
 
-
-
-<div>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=liuizn&show_icons=true&theme=tokyonight">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liuizn&layout=compact&langs_count=16&theme=tokyonight">
-
-</div>
 <div style="display: inline_block">
     <h2>Skills </h2>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
